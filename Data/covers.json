@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover-batman"
+  },
+  {
+    "id" : 2,
+    "name" : "cover-blackpanther"
+  },
+  {
+    "id" : 3,
+    "name" : "cover-captain"
+  },
+  {
+    "id" : 4,
+    "name" : "cover-hulk"
+  },
+  {
+    "id" : 5,
+    "name" : "cover-flash"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-ironman"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-superman"
+  },
+  {
+    "id" : 8,
+    "name" : "cover-spiderman"
+  }
+]

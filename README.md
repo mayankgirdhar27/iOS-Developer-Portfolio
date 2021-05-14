@@ -30,7 +30,7 @@ UI/UX - SwiftUI
 
 An app just to showcase my favorite superheroes and their best movie scenes. 
 Data is being fetched from a local JSON file.
-AVKit is used to play media like Videos in the App.
+AVKit is used to play videos in the App.
 
 ![Superhero](https://user-images.githubusercontent.com/50924430/118241726-1b4ed500-b4ba-11eb-8dcc-63e4d622e328.png)
 
@@ -45,10 +45,9 @@ An app for the local law enforcement to capture and store digital evidence on th
 The person using the app can give notes on stored evidence.
 Audit Trail is being maintained of all the activity and evidence capture.
 
-CoreData is using one-to-many relationships to manage the data. 
-CoreData is being used to manage the data in the app. I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
+CoreData is using one-to-many relationships to manage the data. I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
 
-App displays a list of captured Eidence within a specefic case container
+App displays a list of captured Evidence within a specefic case container
 Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
 Using AVkit to play Videos
 

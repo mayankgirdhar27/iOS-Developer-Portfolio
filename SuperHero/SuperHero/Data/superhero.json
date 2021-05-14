@@ -1,0 +1,93 @@
+[
+  {
+    "id" : "ironman",
+    "name" : "Iron Man",
+    "headline" : "YOU CAN TAKE AWAY MY HOUSE, ALL MY TRICKS AND TOYS. ONE THING YOU CAN'T TAKE AWAY...I AM IRON MAN.",
+    "description" : " Genius level intellect Proficient scientist and engineer Powered armor suit: Superhuman strength, speed, durability, agility, reflexes, and senses Supersonic flight Energy repulsor and missile projection Regenerative life support",
+    "link" : "https://www.marvel.com/characters/iron-man-tony-stark/on-screen/profile",
+    "image" : "ironman",
+    "gallery" : [
+      "ironman-1",
+      "ironman-2",
+      "ironman-3"
+    ]
+  },
+  {
+    "id" : "spiderman",
+    "name" : "Spiderman",
+    "headline" : "With great power comes. Great Responsibilty",
+    "description" : "A bite from a spider somehow granted teenager Peter Parker its arachnid abilities and instead of using them for personal gain, he decided to help others with them. An orphan living with his aunt, May Parker, the boy chose to wear a mask while fighting crime so as not to burden her with his actions. Calling himself Spider-Man and sporting a pair of web-shooting devices he’d constructed, Parker wound up in internet videos which attracted the attention of Tony Stark. The billionaire industrialist deduced Spider-Man’s secret identity and approached Parker at his and May’s home in Queens, New York with a request for aid from the hero in an upcoming confrontation with Captain America and a group of other rogue Avengers and associates. Parker was initially hesitant to even admit his secret career as Spider-Man, but the thrill of adventure and Stark’s talk of responsibility drew him in and he accepted the invitation, as well as a new, high-tech costume and web-shooters.",
+    "link" : "https://www.marvel.com/characters/spider-man-peter-parker/on-screen",
+    "image" : "spiderman",
+    "gallery" : [
+      "spiderman-1",
+      "spiderman-2",
+      "spiderman-3"
+    ]
+  },
+  {
+    "id" : "captain",
+    "name" : "Captain America",
+    "headline" : "I CAN DO THIS ALL DAY.",
+    "description" : "Envious of his friend Bucky Barnes’ military enlistment, and undeterred by his own multiple rejections by the U.S. Army, physical weakling Steve Rogers made one more attempt to join the march of men to fight for their country in the dark days of World War II. Rogers’ valiant wish to fight bullies wherever they were grabbed the attention of scientist Dr. Abraham Erskine, and he handpicked the idealistic young man for the Army’s Super-Soldier program under his supervision.",
+    "link" : "https://www.marvel.com/characters/captain-america-steve-rogers/on-screen",
+    "image" : "captain",
+    "gallery" : [
+      "captain-1",
+      "captain-2",
+      "captain-3"
+    ]
+  },
+  {
+    "id" : "hulk",
+    "name" : "Hulk",
+    "headline" : "I JUST GET SO ANGRY ALL THE TIME! HULK ALWAYS... ALWAYS ANGRY.",
+    "description" : "Bioscience genius Dr. Bruce Banner focused his major studies on the effects of gamma radiation on humans, working alongside Dr. Betty Ross at a Virginia University lab. Dr. Ross’ father, General “Thunderbolt” Ross of the U.S. Army, channeled Banner’s work into a program to develop weapons for the military, unbeknownst to both doctors. When Banner decided to test what he learned on himself, he triggered a fantastic transformation in himself that resulted in an immense, hulking figure fueled by his own rage. Having destroyed his lab as the creature, and inadvertently harming Ross in the process, Banner slipped away to avoid capture and study by the Army and began a desperate quest for a cure to his bizarre affliction.As intelligent and cerebral as Bruce Banner is, his alter-ego the Hulk is a completely physical phenomenon. The green behemoth possesses the greatest raw strength of any natural being on Earth, with an upper limit that has yet to be fully tested. His leg muscles allow him to leap great distances and land without harm, and his skin can resist damage from heavy weaponry, as well as the natural elements and even unnatural ones.The Hulk has grown somewhat more intelligent over the years, beginning with the mind of nearly an infant and progressing to what might be described as the personality of a toddler. His speech has increased from growls and roars, to one or two words at a time, to full sentences, albeit broken and naïve. Banner recognizes the Hulk as himself, but often refers to him as “the other guy,” while his alter-ego seems to have little love or respect for the mild scientist and may not even be cognizant that Banner is himself.",
+    "link" : "https://www.marvel.com/characters/hulk-bruce-banner/on-screen",
+    "image" : "hulk",
+    "gallery" : [
+      "hulk-1",
+      "hulk-2",
+      "hulk-3"
+    ]
+  },
+  {
+    "id" : "superman",
+    "name" : "Superman",
+    "headline" : "Faster than a speeding bullet, more powerful than a locomotive… The Man of Steel fights a never-ending battle for truth, justice, and the American way.",
+    "description" : "From his blue uniform to his flowing red cape to the 'S' shield on his chest, Superman is one of the most immediately recognizable and beloved DC Super Heroes of all time. The Man of Steel is the ultimate symbol of truth, justice, and hope. He is the world's first Super Hero and a guiding light to all.The tip of the spear in a revolution that would change the landscape of pop culture, Superman has spent the last eighty years redefining what it means to stand for truth, justice and the American way. The last survivor of the doomed planet Krypton, raised in the quiet heartland of Smallville, Kansas, Superman is as much a legend as he is a man: the gold standard of heroism, compassion and responsibility.Though his powers make him god-like next to his human compatriots, Superman's story is not one of greed or conquest. Instead, he strives to represent the inherent goodness of the human spirit, and the capacity of every living thing to do right by their neighbors.",
+    "link" : "https://www.dccomics.com/characters/superman",
+    "image" : "superman",
+    "gallery" : [
+      "superman-1",
+      "superman-2",
+      "superman-3"
+    ]
+  },
+  {
+    "id" : "batman",
+    "name" : "Batman",
+    "headline" : "A hero can be anyone.",
+    "description" : "In the name of his murdered parents, Bruce Wayne wages eternal war on the criminals of Gotham City. He is vengeance. He is the night. He is Batman.One of the most iconic fictional characters in the world, Batman has dedicated his life to an endless crusade, a war on all criminals in the name of his murdered parents, who were taken from him when he was just a child. Since that tragic night, he has trained his body and mind to near physical perfection to be a self-made Super Hero. He's developed an arsenal of technology that would put most armies to shame. And he's assembled teams of his fellow DC Super Heroes, like the Justice League, the Outsiders and Batman, Incorporated.A playboy billionaire by day, Bruce Wayne’s double life affords him the comfort of a life without financial worry, a loyal butler-turned-guardian and the perfect base of operations in the ancient network of caves beneath his family’s sprawling estate. By night, however, he sheds all pretense, dons his iconic scalloped cape and pointed cowl and takes to the shadowy streets, skies and rooftops of Gotham City.",
+    "link" : "https://www.dccomics.com/characters/batman",
+    "image" : "batman",
+    "gallery" : [
+      "batman-1",
+      "batman-2",
+      "batman-3"
+    ]
+  },
+  {
+    "id" : "flash",
+    "name" : "Flash",
+    "headline" : "You have failed this city",
+    "description" : "Three men have held the title of The Fastest Man Alive—Jay Garrick, Barry Allen and Wally West. Each of them redefined the word hero.The mysterious power known as the Speed Force is an energy field that has, over the centuries, granted incredible powers of velocity to certain heroes. The most famous of these is the Flash, also known as the Fastest Man Alive. Ever since the days of World War II, there has been a man clad in red who can run at impossible speeds, using his power to save lives and defend those who cannot defend themselves. All between the ticks of a second.In the 1940s, college student Jay Garrick acquired his super-speed abilities in a random lab accident and became the first DC Super Hero to go by the name the Flash. Years later, Jay was succeeded by police scientist Barry Allen, until Barry’s former kid partner Wally West took up the mantle at a time when Barry was considered dead. But, when Barry returned, he became the Flash once again. All three generations of speedsters have been cornerstone members of both the Justice Society and Justice League.The Flash has mastery over not just speed, but time itself, and he has often used his powers to travel though different eras and even into other dimensions. Although the Flash has not always been fast enough to outrun personal tragedy when it has come for him, he always does his best to prevent the same from happening to the people of Central City and Keystone City. In so doing, he's earned himself a spot among the greatest Super Heroes the DC Universe has ever known.",
+    "link" : "https://www.dccomics.com/characters/the-flash",
+    "image" : "flash",
+    "gallery" : [
+      "flash-1",
+      "flash-2",
+      "flash-3"
+    ]
+  }
+]

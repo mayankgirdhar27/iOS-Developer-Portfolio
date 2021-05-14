@@ -46,6 +46,8 @@ Audit Trail is being maintained of all the activity and evidence capture.
 
 CoreData is using one-to-many relationships to manage the data. 
 CoreData is being used to manage the data in the app. I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
+Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
+Using AVkit to play Videos
 
 
 

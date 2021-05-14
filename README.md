@@ -38,7 +38,8 @@ AVKit is used to play media like Videos in the App.
 
 UI/UX - SwiftUI
 
-I am currently working on this app as this is my final year project. 
+I am currently working on this app as this is my final year project.
+This app is only 40% complete
 
 An app for the local law enforcement to capture and store digital evidence on the device. 
 The person using the app can give notes on stored evidence.
@@ -46,8 +47,13 @@ Audit Trail is being maintained of all the activity and evidence capture.
 
 CoreData is using one-to-many relationships to manage the data. 
 CoreData is being used to manage the data in the app. I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
+
+App displays a list of captured Eidence within a specefic case container
 Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
 Using AVkit to play Videos
+
+![PrivateEye](https://user-images.githubusercontent.com/50924430/118245260-36234880-b4be-11eb-938b-af780217683a.png)
+
 
 
 

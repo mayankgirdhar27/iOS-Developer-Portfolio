@@ -51,7 +51,9 @@ App displays a list of captured Evidence within a specefic case container
 Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
 Using AVkit to play Videos
 
-![PrivateEye](https://user-images.githubusercontent.com/50924430/118245260-36234880-b4be-11eb-938b-af780217683a.png)
+![Untitled-2](https://user-images.githubusercontent.com/50924430/118348005-f5cad580-b564-11eb-9f60-59696fee83ce.png)
+![Untitled-1](https://user-images.githubusercontent.com/50924430/118348007-f7949900-b564-11eb-966d-55da44eeed10.png)
+
 
 
 

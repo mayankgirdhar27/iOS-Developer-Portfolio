@@ -52,7 +52,8 @@ Using PHPicker which was introduced in iOS 14 to select photos and videos from t
 Using AVkit to play Videos
 
 ![Untitled-2](https://user-images.githubusercontent.com/50924430/118348005-f5cad580-b564-11eb-9f60-59696fee83ce.png)
-![Untitled-1](https://user-images.githubusercontent.com/50924430/118348007-f7949900-b564-11eb-966d-55da44eeed10.png)
+![Untitled-3](https://user-images.githubusercontent.com/50924430/118352875-75ff3400-b581-11eb-95eb-2d4872ae2349.png)
+
 
 
 

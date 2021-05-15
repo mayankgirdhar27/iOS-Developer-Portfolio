@@ -2,6 +2,7 @@
 
 UI/UX - SwiftUI
 
+Live Covid19 cases Update.
 Data is being fetched from a Rest API. 
 The data is in JSON format.
 
@@ -11,8 +12,9 @@ The data is in JSON format.
 
 UI/UX - UIKit
 
+Live Weather Updates.
 Data is being fetched from openweathermaps API. 
-CoreLocation is also used to fetch the current location of the User.
+CoreLocation is used to fetch the current location of the User.
 
 ![Weather App](https://user-images.githubusercontent.com/50924430/118238764-9b733b80-b4b6-11eb-9cb0-b2839aee6ffc.png)
 
@@ -39,17 +41,18 @@ AVKit is used to play videos in the App.
 UI/UX - SwiftUI
 
 I am currently working on this app as this is my final year project.
-This app is only 40% complete
+This app is only about 40% complete.
 
 An app for the local law enforcement to capture and store digital evidence on the device. 
 The person using the app can give notes on stored evidence.
 Audit Trail is being maintained of all the activity and evidence capture.
 
-CoreData is using one-to-many relationships to manage the data. I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
+CoreData is using one-to-many relationships to manage the data. 
+I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
 
 App displays a list of captured Evidence within a specefic case container
 Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
-Using AVkit to play Videos
+Using AVkit to play Videos.
 
 ![Untitled-2](https://user-images.githubusercontent.com/50924430/118348005-f5cad580-b564-11eb-9f60-59696fee83ce.png)
 ![Untitled-3](https://user-images.githubusercontent.com/50924430/118352875-75ff3400-b581-11eb-95eb-2d4872ae2349.png)

@@ -48,7 +48,7 @@ The person using the app can give notes on stored evidence.
 Audit Trail is being maintained of all the activity and evidence capture.
 
 CoreData is using one-to-many relationships to manage the data. 
-I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the documents directroy in CoreData with other information. and then fetching back data from CoreData.
+I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the saved media in documents directroy in CoreData with other information.
 
 App displays a list of captured Evidence within a specefic case container
 Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 

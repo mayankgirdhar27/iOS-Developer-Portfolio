@@ -11,8 +11,8 @@ the data.
 Link of the stored media(Documents Directory URL to media) is stored in CoreData to
 fetch and display media in the app.
 
-!![image](https://user-images.githubusercontent.com/50924430/119418253-353bb380-bd15-11eb-85b5-4d851cb59476.png)
-![image](https://user-images.githubusercontent.com/50924430/119418266-3b319480-bd15-11eb-9e22-70d1b3f0fd34.png)
+![image](https://user-images.githubusercontent.com/50924430/119418570-e5a9b780-bd15-11eb-8484-9ddc1ade2ae9.png)
+![image](https://user-images.githubusercontent.com/50924430/119418491-c14ddb00-bd15-11eb-9225-ad0fc4b38f23.png)
 
 
 # Covid19-Cases

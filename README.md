@@ -1,3 +1,20 @@
+# Private Eye
+
+UI/UX - SwiftUI
+
+I am currently working on this app as my final year project.
+An app for the local law enforcement to capture and store digital evidence on the device.
+Using Documents directory to store files like videos & photos picked using PHPicker from
+the users phone library.
+CoreData is used to store the data in the App. Using one to many relationship to store all
+the data.
+Link of the stored media(Documents Directory URL to media) is stored in CoreData to
+fetch and display media in the app.
+
+!![image](https://user-images.githubusercontent.com/50924430/119418253-353bb380-bd15-11eb-85b5-4d851cb59476.png)
+![image](https://user-images.githubusercontent.com/50924430/119418266-3b319480-bd15-11eb-9e22-70d1b3f0fd34.png)
+
+
 # Covid19-Cases
 
 UI/UX - SwiftUI
@@ -35,31 +52,4 @@ Data is being fetched from a local JSON file.
 AVKit is used to play videos in the App.
 
 ![Superhero](https://user-images.githubusercontent.com/50924430/118241726-1b4ed500-b4ba-11eb-8dcc-63e4d622e328.png)
-
-# Private Eye
-
-UI/UX - SwiftUI
-
-I am currently working on this app as this is my final year project.
-This app is only about 40% complete.
-
-An app for the local law enforcement to capture and store digital evidence on the device. 
-The person using the app can give notes on stored evidence.
-Audit Trail is being maintained of all the activity and evidence capture.
-
-CoreData is using one-to-many relationships to manage the data. 
-I am using Documents directory to store files like videos and photos. And then storing the link(URL) of the saved media in documents directroy in CoreData with other information.
-
-App displays a list of captured Evidence within a specefic case container
-Using PHPicker which was introduced in iOS 14 to select photos and videos from the library. 
-Using AVkit to play Videos.
-
-![Untitled-2](https://user-images.githubusercontent.com/50924430/118348005-f5cad580-b564-11eb-9f60-59696fee83ce.png)
-![Untitled-3](https://user-images.githubusercontent.com/50924430/118352875-75ff3400-b581-11eb-95eb-2d4872ae2349.png)
-
-
-
-
-
-
 

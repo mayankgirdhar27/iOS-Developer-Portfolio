@@ -2,7 +2,7 @@
 
 UI/UX - SwiftUI
 
-I am currently working on this app as my final year project.
+I develpoed this app App for my Final Year Porject
 An app for the local law enforcement to capture and store digital evidence on the device.
 Using Documents directory to store files like videos & photos picked using PHPicker from
 the users phone library.
@@ -11,8 +11,8 @@ the data.
 Link of the stored media(Documents Directory URL to media) is stored in CoreData to
 fetch and display media in the app.
 
-![image](https://user-images.githubusercontent.com/50924430/119418570-e5a9b780-bd15-11eb-8484-9ddc1ade2ae9.png)
-![image](https://user-images.githubusercontent.com/50924430/119418491-c14ddb00-bd15-11eb-9225-ad0fc4b38f23.png)
+![Untitled-2](https://user-images.githubusercontent.com/50924430/124125273-552b6900-da71-11eb-9dcf-9d96b99d7a86.png)
+
 
 
 # Covid19-Cases

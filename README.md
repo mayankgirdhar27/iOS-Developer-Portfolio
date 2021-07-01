@@ -2,7 +2,7 @@
 
 UI/UX - SwiftUI
 
-I develpoed this app App for my Final Year Porject
+I develpoed this app App for my Final Year Porject.
 An app for the local law enforcement to capture and store digital evidence on the device.
 Using Documents directory to store files like videos & photos picked using PHPicker from
 the users phone library.

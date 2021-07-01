@@ -12,6 +12,8 @@ Link of the stored media(Documents Directory URL to media) is stored in CoreData
 fetch and display media in the app.
 
 ![Untitled-2](https://user-images.githubusercontent.com/50924430/124125273-552b6900-da71-11eb-9dcf-9d96b99d7a86.png)
+![Untitle2d-2](https://user-images.githubusercontent.com/50924430/124126636-c881aa80-da72-11eb-8c0c-909dfd65ea0c.png)
+
 
 
 

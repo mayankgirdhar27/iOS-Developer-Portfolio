@@ -2,18 +2,23 @@
 
 UI/UX - SwiftUI
 
-I develpoed this app App for my Final Year Porject.
-An app for the local law enforcement to capture and store digital evidence on the device.
-Using Documents directory to store files like videos & photos picked using PHPicker from
-the users phone library.
-CoreData is used to store the data in the App. Using one to many relationship to store all
-the data.
-Link of the stored media(Documents Directory URL to media) is stored in CoreData to
-fetch and display media in the app.
+Data Persistence - Core Data Stack.
+
+I developed this app App for my Final Year Project.
+An app for the local law enforcement to capture and store digital evidence on the device. A User can create multiple cases and store case details and digital evidence in the app. A password screen is also implemented.
+I am Using the Documents directory to store files like videos/photos. Users can import multiple photos/videos in the app using a custom implemented PHPicker. The link of the imported media (Documents Directory URL to media) is stored in CoreData to fetch and display media in the app. Core Data stores the text-based case details.
 
 ![Untitled-2](https://user-images.githubusercontent.com/50924430/124125273-552b6900-da71-11eb-9dcf-9d96b99d7a86.png)
 ![Untit12led-2](https://user-images.githubusercontent.com/50924430/124126939-14ccea80-da73-11eb-86ad-1414d1aeaa9b.png)
 
+# Safe Media Vault
+
+UI/UX - SwiftUI
+
+An app to store personal media.
+App Store Link - https://apps.apple.com/in/app/safe-media-vault/id1569985325
+
+![Untitled-211](https://user-images.githubusercontent.com/50924430/124319302-eb46b880-db71-11eb-936a-6b602505bbd5.png)
 
 # Covid19-Cases
 
@@ -34,14 +39,6 @@ Data is being fetched from openweathermaps API.
 CoreLocation is used to fetch the current location of the User.
 
 ![Weather App](https://user-images.githubusercontent.com/50924430/118238764-9b733b80-b4b6-11eb-9cb0-b2839aee6ffc.png)
-
-# TODO-App
-
-UI/UX - SwiftUI
-
-CoreData is used to manage the Todo List items. 
-
-![Todo](https://user-images.githubusercontent.com/50924430/118241910-53561800-b4ba-11eb-81d8-28336e0bf7a7.png)
 
 # Superheros
 

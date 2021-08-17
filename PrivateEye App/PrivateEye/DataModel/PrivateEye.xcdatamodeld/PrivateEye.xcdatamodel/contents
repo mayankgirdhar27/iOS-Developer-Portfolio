@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19141.11" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CaseEntity" representedClassName="CaseEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="caseDescription" optional="YES" attributeType="String"/>
+        <attribute name="caseID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="caseName" optional="YES" attributeType="String"/>
+        <attribute name="crimeCommitedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="location" optional="YES" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="offence" optional="YES" attributeType="String"/>
+        <relationship name="savedMedia" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SavedMediaEntity" inverseName="caseDetail" inverseEntity="SavedMediaEntity"/>
+        <relationship name="toSuspectList" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SuspectList" inverseName="toCaseEntity" inverseEntity="SuspectList"/>
+    </entity>
+    <entity name="Password" representedClassName="Password" syncable="YES" codeGenerationType="class">
+        <attribute name="passcode" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SavedMediaEntity" representedClassName="SavedMediaEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="mediaDescription" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="String"/>
+        <relationship name="caseDetail" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CaseEntity" inverseName="savedMedia" inverseEntity="CaseEntity"/>
+    </entity>
+    <entity name="SuspectList" representedClassName="SuspectList" syncable="YES" codeGenerationType="class">
+        <attribute name="suspectName" optional="YES" attributeType="String"/>
+        <relationship name="toCaseEntity" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CaseEntity" inverseName="toSuspectList" inverseEntity="CaseEntity"/>
+    </entity>
+    <elements>
+        <element name="CaseEntity" positionX="-63" positionY="-18" width="128" height="179"/>
+        <element name="Password" positionX="144" positionY="54" width="128" height="44"/>
+        <element name="SavedMediaEntity" positionX="492.2105712890625" positionY="-7.5059814453125" width="128" height="89"/>
+        <element name="SuspectList" positionX="144" positionY="36" width="128" height="59"/>
+    </elements>
+</model>
